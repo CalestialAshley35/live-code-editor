@@ -9,7 +9,7 @@ This project, created by **Calestial Ashley**, is a **Live Code Editor** that al
 - **Three Code Panels:** Separate text areas for HTML, CSS, and JavaScript code, each with its own labeled panel.
 - **Real-Time Output:** The code written in the editor is rendered in real-time in an `iframe` element, showing the output as the user types.
 - **Responsive Design:** The layout is flexible and adjusts to different screen sizes, ensuring a good user experience on both desktop and mobile devices.
-- **Dark Theme:** The interface uses a dark theme with a color scheme that is easy on the eyes, especially during long coding sessions.
+
 
 ## Project Structure
 
